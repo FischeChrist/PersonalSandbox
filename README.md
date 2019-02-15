@@ -1,8 +1,14 @@
-# Test123
-Test
+# Personal Sandbox
+Testing ground for DGUI homework and project work
 
-## Titel
-Test für mich
+## What
+DGUI - Dynamic User Interfaces
 
-## Ziel
-Ich bin ein Test, um zu lernen, wie GutHub funktioniert.
+## Who
+FischeChrist
+
+## Why
+Information Science (Bachelor) at the HTW (Hochschule fuer Technik und Wirtschaft) Chur, Switzerland.
+
+## When
+Semester FS2019
